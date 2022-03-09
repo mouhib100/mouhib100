@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mouhibTouaiti
-- 👀 I’m interested in Game Development as well as Game Design
-- 🌱 I’m currently learning mobile developement
-- 💞️ I’m looking to collaborate on an indie game
+- 👀 I’m interested in Web Development as well as Web Design
+- 🌱 I’m currently learning Web Developement
+- 💞️ I’m looking for a freelance opportunity
 - 📫 How to reach me mouhib.touaiti@esprit.tn
 
 <!---
